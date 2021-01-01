@@ -1,3 +1,3 @@
 # Nothing
 
-Just tring to figure out how things are done here
+Just trying to figure out how things are done here
